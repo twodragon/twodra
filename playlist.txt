@@ -15,6 +15,9 @@
    },
    {"title":"Müzik","folder":
       [
+	  {"title":"Number 1 Aşk","file":"https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8"},
+	  {"title":"Number 1 Damar","file":"https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8"},
+	  {"title":"Number 1 Dance","file":"https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8"},
       {"title":"Power Dance","file":"https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8"},
 	  {"title":"Power Plus","file":"https://livetv.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8"},
 	  {"title":"Power Türk","file":"https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8"},

@@ -47,14 +47,24 @@
 
 {"title":"Alpha","file":"https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8"},
 {"title":"hr","file":"https://hrhls.akamaized.net/hls/live/2024525-b/hrhls/master.m3u8"},
+{"title":"wdw","file":"https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8"},
+{"title":"anixa","file":"https://ma.anixa.tv/clips/stream/anixehd/index.m3u8"},
+{"title":"myTVplus","file":"https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8"},
+{"title":"dresdenfernsehenTV","file":"https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8"},
+{"title":"erzTV","file":"https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/chunklist_w585202401.m3u8"},
+{"title":"hauptstadttv","file":"https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8"},
+{"title":"MDF1","file":"https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:mdf1_high/playlist.m3u8"},
+{"title":"Niederbayern TV","file":"https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/master.m3u8"},
+{"title":"ran1","file":"https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ran1_high/chunklist.m3u8"},
+{"title":"fs1","file":"http://stream.fs1.tv:8080/hls/webstream.m3u8"},
+{"title":"w24","file":"https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8"},
+{"title":"ZDF (VPN!)","file":"https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8"},
+{"title":"ZDFneo (VPN!)","file":"https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8"},
+{"title":"ZDFinfo (VPN!)","file":"https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8"},
+
+{"title":"ZDF phoneix (VPN!)","file":"https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8"},
 {"title":"TV","file":""},
-{"title":"TV","file":""},
-{"title":"TV","file":""},
-{"title":"TV","file":""},
-{"title":"TV","file":""},
-{"title":"TV","file":""},
-{"title":"TV","file":""},
-{"title":"TV","file":""},
+
 
          {"title":"TV","file":""}
 

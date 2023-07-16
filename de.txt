@@ -40,7 +40,7 @@
          {"title":"c3 TV","file":"https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8"},
          {"title":"DW+TV","file":"https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8"},
          {"title":"KR1 TV","file":"https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8"},
-         {"title":"TV","file":""},
+         {"title":"kruer TV","file":"https://schautv.mdn.ors.at/out/u/schautv-nodrm.m3u8"},
          {"title":"TV","file":""},
          {"title":"TV","file":""},
          {"title":"TV","file":""},

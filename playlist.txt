@@ -8,13 +8,14 @@
 		{"title":"Woman TV","file":"https://embedlp.becdn.net/womantv.m3u8"},
 		{"title":"TRT 1","file":"https://tv-trt1-dai.medya.trt.com.tr/master.m3u8"},
 		{"title":"TRT 2","file":"https://tv-trt2.medya.trt.com.tr/master.m3u8"},
-		{"title":"Beyaz TV","file":"https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8"},
 		{"title":"Kanal 7 Avrupa","file":"https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8"},
-		{"title":"360","file":"https://turkmedya-live.ercdn.net/tv360/tv360.m3u8"}
+		{"title":"360","file":"https://turkmedya-live.ercdn.net/tv360/tv360.m3u8"},
+		{"title":"Beyaz TV","file":"https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8"}
       ]
    },
    {"title":"Müzik","folder":
       [
+	{"title":"Kral Pop TV","file":"https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8"},
 	  {"title":"Number 1 Aşk","file":"https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8"},
 	  {"title":"Number 1 Damar","file":"https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8"},
 	  {"title":"Number 1 Dance","file":"https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8"},
@@ -41,7 +42,7 @@
       [
 	{"title":"24","file":"https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8"},
 
-	{"title":"TV","file":""},
+
 	{"title":"TV","file":""},
 	{"title":"TV","file":""},
 	{"title":"TV","file":""},

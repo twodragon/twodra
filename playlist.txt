@@ -33,18 +33,18 @@
 	  {"title":"TLC","file":"https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8"},
 	  {"title":"ID","file":"https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_4.m3u8"},
 	  {"title":"TRT Belgesel","file":"https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8"},
-	  {"title":"TITLE","file":"URL"}
+	  {"title":"TV","file":""}
 	  ]
 	},
    {"title":"Haber","folder":
       [
 	{"title":"24","file":"https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8"},
-	{"title":"TITLE","file":"URL"},
-	{"title":"TITLE","file":"URL"},
-	{"title":"TITLE","file":"URL"},
-	{"title":"TITLE","file":"URL"},
-	{"title":"TITLE","file":"URL"},
-	{"title":"TITLE","file":"URL"}
+	{"title":"TV","file":""},
+	{"title":"TV","file":""},
+	{"title":"TV","file":""},
+	{"title":"TV","file":""},
+	{"title":"TV","file":""},
+	{"title":"TV","file":""}
 	  ]
 	}
 ]

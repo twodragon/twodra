@@ -1,16 +1,15 @@
 [
    {"title":"Ulusal TV","folder":
       [
-		{"title":"Kanal 7 Avrupa","file":"https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8"},
-		{"title":"360","file":"https://turkmedya-live.ercdn.net/tv360/tv360.m3u8"},
 		{"title":"Kanal D","file":"https://demiroren-live.daioncdn.net/kanald/kanald.m3u8"},
 		{"title":"Star TV","file":"https://dogus-live.daioncdn.net/startv/startv.m3u8"},
 		{"title":"Show TV","file":"https://ciner-live.daioncdn.net/showtv/showtv.m3u8"},
 		{"title":"TV 8","file":"https://tv8-live.daioncdn.net/tv8/tv8.m3u8"},
 		{"title":"Woman TV","file":"https://embedlp.becdn.net/womantv.m3u8"},
-		{"title":"TRT 1","file":"https://tv-trt1-dai.medya.trt.com.tr/master.m3u8"}
-
-	  
+		{"title":"TRT 1","file":"https://tv-trt1-dai.medya.trt.com.tr/master.m3u8"},
+		{"title":"TRT 2","file":"https://tv-trt2.medya.trt.com.tr/master.m3u8"},
+		{"title":"Kanal 7 Avrupa","file":"https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8"},
+		{"title":"360","file":"https://turkmedya-live.ercdn.net/tv360/tv360.m3u8"}
       ]
    },
    {"title":"Müzik","folder":
@@ -27,5 +26,14 @@
 	  {"title":"Power Türk Taptaze","file":"https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8"},
       {"title":"Power Love","file":"https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8"}
       ]
-   }
+   },
+   {"title":"Belgesel","folder":
+      [
+	  {"title":"DMAX","file":"https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8"},
+	  {"title":"TLC","file":"https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8"},
+	  {"title":"ID","file":"https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_4.m3u8"},
+	  {"title":"TRT Belgesel","file":"https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8"},
+	  {"title":"TITLE","file":"URL"}
+	  ]
+	}
 ]

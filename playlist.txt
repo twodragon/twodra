@@ -1,0 +1,28 @@
+[
+   {"title":"Ulusal TV","folder":
+      [
+		{"title":"Kanal 7 Avrupa","file":"https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8"},
+		{"title":"360","file":"https://turkmedya-live.ercdn.net/tv360/tv360.m3u8"},
+		{"title":"Kanal D","file":"https://demiroren-live.daioncdn.net/kanald/kanald.m3u8"},
+		{"title":"Star TV","file":"https://dogus-live.daioncdn.net/startv/startv.m3u8"},
+		{"title":"Show TV","file":"https://ciner-live.daioncdn.net/showtv/showtv.m3u8"},
+		{"title":"TV 8","file":"https://tv8-live.daioncdn.net/tv8/tv8.m3u8"},
+		{"title":"Woman TV","file":"https://embedlp.becdn.net/womantv.m3u8"},
+		{"title":"TRT 1","file":"https://tv-trt1-dai.medya.trt.com.tr/master.m3u8"}
+
+	  
+      ]
+   },
+   {"title":"Müzik","folder":
+      [
+      {"title":"Power Dance","file":"https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8"},
+	  {"title":"Power Plus","file":"https://livetv.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8"},
+	  {"title":"Power Türk","file":"https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8"},
+	  {"title":"Power TürkAkustik","file":"https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8"},
+	  {"title":"Power Türk eniyiler","file":"https://livetv.powerapp.com.tr/pturkeniyiler/eniyiler.smil/playlist.m3u8"},
+	  {"title":"Power Türk Slow","file":"https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8"},
+	  {"title":"Power Türk Taptaze","file":"https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8"},
+      {"title":"Power Love","file":"https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8"}
+      ]
+   }
+]

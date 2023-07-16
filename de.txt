@@ -46,7 +46,7 @@
          {"title":"Hope TV","file":"https://customer-x8zydurm357k8j9p.cloudflarestream.com/5b46490d20cdd87fcac238b0027813e0/manifest/video.m3u8"},
 
 {"title":"Alpha","file":"https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8"},
-{"title":"TV","file":""},
+{"title":"hr","file":"https://hrhls.akamaized.net/hls/live/2024525-b/hrhls/master.m3u8"},
 {"title":"TV","file":""},
 {"title":"TV","file":""},
 {"title":"TV","file":""},

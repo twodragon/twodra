@@ -30,6 +30,15 @@
 	{"title":"Bizim ev TV","file":"https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8"}
 ]
 	},
+   {"title":"Haber","folder":
+      [
+	{"title":"24","file":"https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8"},
+	{"title":"CNN TURK","file":"https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8"},
+	{"title":"TV","file":""},
+
+	{"title":"TV","file":""}
+	  ]
+	},
    {"title":"Müzik","folder":
       [
 	{"title":"Kral Pop TV","file":"https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8"},
@@ -45,15 +54,7 @@
 	  {"title":"Power Türk Taptaze","file":"https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8"},
       {"title":"Power Love","file":"https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8"}
       ]
-   },
+   }
 
-   {"title":"Haber","folder":
-      [
-	{"title":"24","file":"https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8"},
-	{"title":"CNN TURK","file":"https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8"},
-	{"title":"TV","file":""},
 
-	{"title":"TV","file":""}
-	  ]
-	}
 ]

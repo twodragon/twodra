@@ -10,7 +10,7 @@
 		{"title":"TRT 2","file":"https://tv-trt2.medya.trt.com.tr/master.m3u8"},
 		{"title":"Kanal 7 Avrupa","file":"https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8"},
 		{"title":"360","file":"https://turkmedya-live.ercdn.net/tv360/tv360.m3u8"},
-		{"title":"Cine5","file":"https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8"}
+		{"title":"Teve 2","file":"https://demiroren.daioncdn.net/teve2/teve2.m3u8?ce=3&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd"}
       ]
    },
    {"title":"Belgesel","folder":

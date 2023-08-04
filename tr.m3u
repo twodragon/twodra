@@ -42,6 +42,8 @@ https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
 https://tv.ensonhaber.com/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="TVNet.tr",TVnet (720p)
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
+#EXTINF:-1 tvg-id="CNNTurk.tr",CNN Türk (720p)
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr",TRT World (720p) [Not 24/7]
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="AdaTV.cy",ADA TV (720p)
@@ -90,8 +92,6 @@ http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
 https://waw1.artiyerelmedya.net/ciftcitv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-id="Cine5.tr",Cine5 (720p)
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNTurk.tr",CNN Türk (720p)
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="DehaTV.tr",Deha TV (720p) [Geo-blocked]
 https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/chunks.m3u8
 #EXTINF:-1 tvg-id="DenizPostasiTV.tr",Deniz Postası TV (720p) [Not 24/7]

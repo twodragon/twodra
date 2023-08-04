@@ -62,6 +62,10 @@ https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="rizetrk.tr",Rize Türk
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
+#EXTINF:-1 tvg-id="Cine5.tr",Cine5 (720p)
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Cine1.tr",Cine1 (720p)
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 #EXTINF:-1 tvg-id="AdaTV.cy",ADA TV (720p)
 https://edge1.socialsmart.tv/adatv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="AfyonTurkTV.tr",Afyon Türk TV (720p)
@@ -106,8 +110,6 @@ https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlis
 http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CiftciTV.tr",Çiftçi TV (720p) [Not 24/7]
 https://waw1.artiyerelmedya.net/ciftcitv/bant1/chunks.m3u8
-#EXTINF:-1 tvg-id="Cine5.tr",Cine5 (720p)
-https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DehaTV.tr",Deha TV (720p) [Geo-blocked]
 https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/chunks.m3u8
 #EXTINF:-1 tvg-id="DenizPostasiTV.tr",Deniz Postası TV (720p) [Not 24/7]

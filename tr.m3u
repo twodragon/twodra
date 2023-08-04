@@ -406,7 +406,7 @@ http://lalegultv.netmedya.net/hls/lalegultv.m3u8
 https://waw2.artiyerelmedya.net/kanalv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-id="BesiktasWebTV.tr",Beşiktaş Web TV (360p)
 https://s01.vpis.io/besiktas/besiktas.m3u8
-#EXTINF:-1 tvg-id="",Ogün TV (360p)
+#EXTINF:-1 tvg-id="",Ogün TV
 https://s01.vpis.io/ogun/ogun.m3u8
 #EXTINF:-1 tvg-id="MalatyaVuslatTV.tr",Malatya Vuslat TV (720p)
 https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
@@ -416,5 +416,7 @@ https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8
 https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/playlist.m3u8
 #EXTINF:-1 tvg-id="KonyaOlay.tr",Konya Olay TV
 https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8
+#EXTINF:-1 tvg-id="",TV A
+https://live.artidijitalmedya.com/artidijital_tva/tva/playlist.m3u8
 #EXTINF:-1 tvg-id="Bir.tr",Bir TV
 https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8

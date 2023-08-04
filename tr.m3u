@@ -48,6 +48,10 @@ https://tv.ensonhaber.com/tv24/tv24.m3u8
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 #EXTINF:-1 tvg-id="CNNTurk.tr",CNN Türk (720p)
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV.tr",NTV (720p) [Not 24/7]
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+#EXTINF:-1 tvg-id="TRTHaber.tr",TRT Haber (720p)
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TV100.tr",TV 100 (720p)
 https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
 #EXTINF:-1 tvg-id="ShowTurk.tr",Show Türk (720p) [Not 24/7]
@@ -240,8 +244,6 @@ https://broadcasttr.com:446/muglaturk/bant1/playlist.m3u8
 http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="NaturalTV.tr",Natural TV (720p) [Not 24/7]
 https://broadcasttr.com:446/naturaltv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV.tr",NTV (720p) [Not 24/7]
-https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 #EXTINF:-1 tvg-id="NTVSpor.tr",NTV Spor
 http://46.4.193.238:8484/hls/ntvspor/playlist.m3u8
 #EXTINF:-1 tvg-id="Number1Ask.tr",Number 1 Ask (720p)
@@ -340,8 +342,6 @@ https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 https://tv-e-okul02.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTEBAOrtaokul.tr",TRT EBA Ortaokul (720p)
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTHaber.tr",TRT Haber (720p)
-https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTKurdi.tr",TRT Kurdî (720p)
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTMuzik.tr",TRT Müzik (720p)

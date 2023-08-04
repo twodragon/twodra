@@ -418,5 +418,3 @@ https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/playlist.m3u
 https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8
 #EXTINF:-1 tvg-id="Bir.tr",Bir TV
 https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8
-#EXTINF:-1 tvg-id="gozde.tr",Gözde TV
-https://yayin1.canlitv.day/canlitv/gozdetv.stream/chunklist_w1247909438.m3u8

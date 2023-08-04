@@ -48,6 +48,8 @@ https://tv.ensonhaber.com/tv24/tv24.m3u8
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 #EXTINF:-1 tvg-id="CNNTurk.tr",CNN Türk (720p)
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+#EXTINF:-1 tvg-id="TV100.tr",TV 100 (720p)
+https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr",TRT World (720p) [Not 24/7]
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="AdaTV.cy",ADA TV (720p)
@@ -374,10 +376,6 @@ http://stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8
 http://stream.taksimbilisim.com:1935/tv41/smil:tv41.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TV52.tr",TV 52 (720p) [Not 24/7]
 http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TV52.tr",TV 52 (720p) [Not 24/7]
-https://broadcasttr.com:446/tv52/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="TV100.tr",TV 100 (720p)
-https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
 #EXTINF:-1 tvg-id="TV264.tr",TV 264 (1080p)
 https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVDen.tr",TV Den (576p) [Not 24/7]

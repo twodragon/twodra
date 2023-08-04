@@ -50,6 +50,8 @@ https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="TV100.tr",TV 100 (720p)
 https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
+#EXTINF:-1 tvg-id="ShowTurk.tr",Show Türk (720p) [Not 24/7]
+https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr",TRT World (720p) [Not 24/7]
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="AdaTV.cy",ADA TV (720p)
@@ -296,8 +298,6 @@ https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist.m3u8
 https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SemerkandTV.tr",Semerkand TV (720p) [Not 24/7]
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ShowTurk.tr",Show Türk (720p) [Not 24/7]
-https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr",Show TV
 http://nimplus3.bozztv.com/showtvturk/showtvturk/playlist.m3u8
 #EXTINF:-1 tvg-id="SinopYildizTV.tr",Sinop Yildiz TV (360p)

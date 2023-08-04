@@ -390,7 +390,7 @@ https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
 https://vdo.digitalbox.xyz:3986/live/unitvlive.m3u8
 #EXTINF:-1 tvg-id="UUTV1.tr",ÜÜ TV 1 (1080p)
 https://uskudarunv.mediatriple.net/uskudarunv/uskudar1/playlist.m3u8
-#EXTINF:-1 tvg-id="UUTV2.tr",ÜÜ TV Üsküdar Üniversitesi TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="UUTV2.tr",ÜÜ TV Üsküdar Üniversitesi TV (1080p)
 https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
 #EXTINF:-1 tvg-id="Vizyon58TV.tr",Vizyon 58 TV (720p) [Geo-blocked]
 https://waw2.artiyerelmedya.net/vizyon58/bant1/playlist.m3u8
@@ -410,5 +410,3 @@ https://s01.vpis.io/ogun/ogun.m3u8
 https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
 #EXTINF:-1 tvg-id="ErzurumWebTV.tr",Erzurum Web TV (720p)
 https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8
-#EXTINF:-1 tvg-id="arbgunes.tr",Arb Güneş TV
-https://59c7ea6bec1c6.streamlock.net/live/arbgunes.stream/playlist.m3u8

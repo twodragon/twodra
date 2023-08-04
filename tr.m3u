@@ -330,12 +330,8 @@ https://live.artidijitalmedya.com/artidijital_tontv/tontv/chunks.m3u8
 https://59cba4d34b678.streamlock.net/canlitv/topraktv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr",TRT 1 (1080p)
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="TRT1.tr",TRT 1 (1080p)
-https://trt1.persona.video/master.m3u8
 #EXTINF:-1 tvg-id="TRTArabi.tr",TRT Arabi (1080p) [Not 24/7]
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTArabi.tr",TRT Arabi (720p) [Not 24/7]
-https://ythls.onrender.com/channel/UC5GvVahlgulCyo4cshSmbcg.m3u8
 #EXTINF:-1 tvg-id="TRTCocuk.tr",TRT Çocuk (720p)
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTEBAIlkokul.tr",TRT EBA Ilkokul (720p)

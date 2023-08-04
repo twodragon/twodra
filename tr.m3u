@@ -58,8 +58,6 @@ https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
 https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr",TRT World (720p) [Not 24/7]
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="critrk.tr",CRI Türk
-https://stream.guventechnology.com:19360/criturktv/criturktv.m3u8
 #EXTINF:-1 tvg-id="rizetrk.tr",Rize Türk
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 #EXTINF:-1 tvg-id="AdaTV.cy",ADA TV (720p)

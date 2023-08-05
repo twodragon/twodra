@@ -108,8 +108,6 @@ https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8
 https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="CiftciTV.tr",Çiftçi TV (1080p) [Not 24/7]
 http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CiftciTV.tr",Çiftçi TV (720p) [Not 24/7]
-https://waw1.artiyerelmedya.net/ciftcitv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-id="DehaTV.tr",Deha TV (720p) [Geo-blocked]
 https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/chunks.m3u8
 #EXTINF:-1 tvg-id="DenizPostasiTV.tr",Deniz Postası TV (720p) [Not 24/7]
@@ -366,8 +364,6 @@ https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="TV4.tr",TV4 (720p)
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#EXTINF:-1 tvg-id="TV38.tr",TV 38 (360p) [Not 24/7]
-https://59cba4d34b678.streamlock.net/live/tv38/playlist.m3u8
 #EXTINF:-1 tvg-id="TV41.tr",TV 41 (720p) [Not 24/7]
 http://stream.taksimbilisim.com:1935/tv41/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="TV41.tr",TV 41 (720p) [Not 24/7]

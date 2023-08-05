@@ -290,8 +290,6 @@ https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 https://yayin30.haber100.com/live/rehbertv/playlist.m3u8
 #EXTINF:-1 tvg-id="SariyerTV.tr",Sarıyer TV (360p)
 https://s01.vpis.io/sariyer/sariyer.m3u8
-#EXTINF:-1 tvg-id="Sat7Pars.cy",Sat7 Pars (720p)
-https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Sat7Turk.cy",Sat7 Türk (720p)
 https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SemerkandTV.tr",Semerkand TV (720p) [Not 24/7]

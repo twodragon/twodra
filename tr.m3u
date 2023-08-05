@@ -232,8 +232,6 @@ https://edge1.socialsmart.tv/linetv/bant1/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
 #EXTINF:-1 tvg-id="MedMuzik.tr",Med Müzik (720p)
 http://137.74.205.201/medmuzik/MedStream/playlist.m3u8
-#EXTINF:-1 tvg-id="MercanTV.tr",Mercan TV (720p) [Not 24/7]
-https://waw2.artiyerelmedya.net/mercantv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="MilyonTV.tr",Milyon TV (720p)
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 #EXTINF:-1 tvg-id="MTurkTV.tr",MTürk TV (1080p)

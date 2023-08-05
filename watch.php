@@ -1,30 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
-   <head>
-      <meta charset="utf-8">
-      <meta content="IE=edge"http-equiv="X-UA-Compatible">
-      <meta content="width=device-width,initial-scale=1,shrink-to-fit=no"name="viewport">
-      <meta content="yes"name="apple-mobile-web-app-capable">
-      <meta content="black"name="apple-mobile-web-app-status-bar-style">
+<head>
+<meta charset="utf-8">
+<meta content="IE=edge"http-equiv="X-UA-Compatible">
+<meta content="width=device-width,initial-scale=1,shrink-to-fit=no"name="viewport">
+<meta content="yes"name="apple-mobile-web-app-capable">
+<meta content="black"name="apple-mobile-web-app-status-bar-style">
 <meta content="Free Online IPTV Player"name="author">
 <title>Free Online IPTV Player.</title>
-
-
-
  <link href="vendor/bootstrap.min.css"rel="stylesheet">
  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-
-
-<link href="vendor/owl.theme.css"rel="stylesheet">
-
-
-
 <script>
 document.addEventListener("contextmenu", function(event){
 event.preventDefault();
 }, false);
-</script>
-<script>
+
    function gizleGoster(ID) {
      var secilenID = document.getElementById(ID);
      if (secilenID.style.display == "none") {
@@ -33,57 +23,64 @@ event.preventDefault();
        secilenID.style.display = "none";
      }
    }
-   </script>
+</script>
 <script src="vendor/clappr.min.js"type="text/javascript"></script>
 <!-- <script src="https://cdn.jsdelivr.net/clappr.chromecast-plugin/latest/clappr-chromecast-plugin.min.js"type="text/javascript"></script> -->
 <script src="vendor/level-selector.min.js"type="text/javascript"></script>
 <script src="vendor/player-error.js"type="text/javascript"></script>
+</head>
+<style type="text/css">
+.list{overflow-y:auto;-webkit-overflow-scrolling:touch}
+  .list::-webkit-scrollbar {
+    display: none; 
+  }
+.list {
+     top: 22px;
+     height: calc(96vh - 56px);
+  }
+ #wrapper {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+#wrapper #content-wrapper {
+    overflow-x: hidden;
+    width: 100%;
+}
 
-
-</head><style type="text/css">.list{overflow-y:auto;-webkit-overflow-scrolling:touch}</style>
+body {
+    background-color: #121212;
+    color: #888;
+    font-size: 13px;
+    height: 100%;
+}
+</style>
 <body id="page-top">
    <script>function clickIE4(){if(2==event.button)return!1}function clickNS4(e){if((document.layers||document.getElementById&&!document.all)&&(2==e.which||3==e.which))return!1}var message="Function Disabled!";document.layers?(document.captureEvents(Event.MOUSEDOWN),document.onmousedown=clickNS4):document.all&&!document.getElementById&&(document.onmousedown=clickIE4),document.oncontextmenu=new Function("return false")</script>
    <nav class="bg-white navbar navbar-expand navbar-light osahan-nav static-top sticky-top">
       <button onclick="gizleGoster('lists');"  class="btn btn-link btn-sm order-1 order-sm-0 text-secondary">
          <i class="fas fa-bars"></i></button>
-
-<!--
-<ul class="ml-auto ml-md-0 navbar-nav osahan-right-navbar" style="background-color: RED;">
-    <li class="nav-item mx-1">
-    
-    <a class="nav-link"href="/"><i class="fas fa-fw fa-plus-circle"></i>Home / New </a></li>
-    
-    
-    
-    </ul> -->
     </nav>
-    
         <div id="wrapper">
-          <div id="lists">
-		  <div id="wmdk">
+          <div id="lists">	 		  
          <div class="ml-auto d-md-inline-block d-none form-inline mr-0 mr-md-5 my-2 my-md-0 osahan-navbar-search"><div class="input-group">
     <input class="form-control search" placeholder="Search for..."onkeyup="bait(this)" style="color:#6c757d;font-weight: bolder;">
 
 <div class="input-group-append">
     <button class="btn btn-light sort"type="button">
         <i class="fas fa-search"></i></button>
-        </div></div></div></div>
-		
-		
-		
-		  
+        </div></div></div>
          <!-- Sidebar -->
          <ul id="list" class="sidebar navbar-nav list">
-		 
-           <?php
 
+<?php
 $url = @$_GET["url"];
 
 if(isset($url)) {
   $m3ufile = file_get_contents($url);
 } else {
  // $m3ufile = file_get_contents('https://iptv-org.github.io/iptv/categories/movies.m3u');
- $m3ufile = file_get_contents('https://raw.githubusercontent.com/twodragon/iptv/master/streams/tr.m3u');
+ $m3ufile = file_get_contents('https://raw.githubusercontent.com/twodragon/twodra/main/tr.m3u');
 }
 
 //$m3ufile = str_replace('tvg-', 'tvg_', $m3ufile);
@@ -96,17 +93,12 @@ $attributes = '/([a-zA-Z0-9\-]+?)="([^"]*)"/';
 
 preg_match_all($re, $m3ufile, $matches);
 
-// Print the entire match result
-//print_r($matches);
-
 $i = 1;
 
 $items = array();
 
  foreach($matches[0] as $list) {
-    
-     //echo "$list <br>";
-	 
+
    preg_match($re, $list, $matchList);
 
    //$mediaURL = str_replace("\r\n","",$matchList[4]);
@@ -138,12 +130,8 @@ $channelName =  str_replace(' [Geo-blocked]', '', $channelName);
     foreach ($matches as $match) {
        $newdata[$match[1]] = $match[2];
     }
-    
-    //array_push($newdata,$attribute);
-    //$newdata[] = $attribute;
-	 
+
 	 $items[] = $newdata;
-	 //$items[] = $matchList[2];
     @$htmlOutput .= '<li class="nav-item"><a class="channel nav-link" data-value="' . $mediaURL . '" href="#">' . $channelName . '</a></li>' . PHP_EOL;
 	
 	}
@@ -212,10 +200,6 @@ $channelName =  str_replace(' [Geo-blocked]', '', $channelName);
          </div>
          <!-- /.content-wrapper -->
       </div>
-<!-- -->
-
-
-      <!-- /#wrapper -->
       <!-- Bootstrap core JavaScript-->
       <script src="vendor/jquery.min.js"></script>
       <script src="vendor/bootstrap.bundle.min.js"></script>
@@ -228,10 +212,7 @@ $channelName =  str_replace(' [Geo-blocked]', '', $channelName);
       <script src="vendor/main.js"></script>
 	  <script>
 	  document.addEventListener('DOMContentLoaded', function() {
-  // Tüm kanal linklerini seçiyoruz
   const channelLinks = document.querySelectorAll('.channel.nav-link');
-
-  // Event listener ekliyoruz
   channelLinks.forEach(link => {
     link.addEventListener('click', function() {
       const channelName = this.innerText;
@@ -243,7 +224,6 @@ $channelName =  str_replace(' [Geo-blocked]', '', $channelName);
     document.title = channelName;
   }
 });
-
-	  </script>
-   </body>
+</script>
+</body>
 </html>

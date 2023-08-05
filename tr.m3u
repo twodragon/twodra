@@ -110,8 +110,6 @@ http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/chunks.m3u8
 #EXTINF:-1 tvg-id="DenizPostasiTV.tr",Deniz Postası TV (720p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
-#EXTINF:-1 tvg-id="Dersim62TV.tr",Dersim62 TV (720p)
-http://live.arkumedia.com:1935/dersim62tv/dersim62tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DHA.tr",DHA (720p) [Not 24/7]
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 #EXTINF:-1 tvg-id="DimTV.tr",DİM TV (720p) [Geo-blocked]

@@ -95,7 +95,7 @@ https://yayin30.haber100.com/live/beykenttv/playlist.m3u8
 #EXTINF:-1 tvg-id="BizimevTV.tr",Bizimev TV (720p)
 https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BRTV.tr",BRTV (720p) [Geo-blocked]
-https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
 #EXTINF:-1 tvg-id="CanTV.tr",Can TV (720p)
 http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1 tvg-id="CayTV.tr",Cay TV (720p) [Not 24/7]
@@ -107,13 +107,11 @@ https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlis
 #EXTINF:-1 tvg-id="CiftciTV.tr",Çiftçi TV (1080p) [Not 24/7]
 http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DehaTV.tr",Deha TV (720p) [Geo-blocked]
-https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/playlist.m3u8
 #EXTINF:-1 tvg-id="DenizPostasiTV.tr",Deniz Postası TV (720p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 #EXTINF:-1 tvg-id="DHA.tr",DHA (720p) [Not 24/7]
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
-#EXTINF:-1 tvg-id="DimTV.tr",DİM TV (720p) [Geo-blocked]
-https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/chunks.m3u8
 #EXTINF:-1 tvg-id="DiyanetTV.tr",Diyanet TV (720p)
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DiyarTV.tr",Diyar TV (1080p)
@@ -127,17 +125,17 @@ https://tv.digitalbox.xyz:19360/edessatv/edessatv.m3u8
 #EXTINF:-1 tvg-id="Ekoturk.tr",Ekotürk (720p)
 https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8
 #EXTINF:-1 tvg-id="ElmasTV.tr",Elmas TV (720p) [Not 24/7]
-https://edge1.socialsmart.tv/elmastv/bant1/chunks.m3u8
+https://edge1.socialsmart.tv/elmastv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="EmTV.tr",Em TV (486p)
 https://cdn.yayin.com.tr/TVEM/TVEM/playlist.m3u8
 #EXTINF:-1 tvg-id="ErtSahTV.tr",Ert Sah TV (720p) [Not 24/7]
 http://win20.yayin.com.tr/ertsahtv/ertsahtv/playlist.m3u8
 #EXTINF:-1 tvg-id="ERTV.tr",Er TV (720p) [Geo-blocked]
-https://live.artidijitalmedya.com/artidijital_ertv/ertv/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_ertv/ertv/playlist.m3u8
 #EXTINF:-1 tvg-id="ESTV.tr",ES TV (720p)
 https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
 #EXTINF:-1 tvg-id="ETVManisa.tr",ETV Manisa (1080p) [Not 24/7]
-https://edge1.socialsmart.tv/manisaetv/bant1/chunks.m3u8
+https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="FinansTurkTV.tr",Finans Turk TV (720p)
 https://vdo.digitalbox.xyz:3588/live/finansturktvlive.m3u8
 #EXTINF:-1 tvg-id="FlashTV.tr",Flash TV (720p)
@@ -171,11 +169,11 @@ http://stream.taksimbilisim.com:1935/kanal3/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanal3.tr",Kanal 3 (720p) [Not 24/7]
 https://waw2.artiyerelmedya.net/kanal3/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanal15.tr",Kanal 15 (720p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanal23.tr",Kanal 23 (720p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanal26.tr",Kanal 26 (720p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanal32.tr",Kanal 32 (480p) [Not 24/7]
 https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanal33.tr",Kanal 33 (720p) [Not 24/7]
@@ -195,7 +193,7 @@ http://51.15.2.151/hls/kanalavrupa.m3u8
 #EXTINF:-1 tvg-id="KanalB.tr",Kanal B (480p) [Not 24/7]
 http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
 #EXTINF:-1 tvg-id="KanalFirat.tr",Kanal Firat (720p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalHayat.tr",Kanal Hayat (1080p)
 https://tbn02a.ltnschedule.com/hls/nx21i.m3u8
 #EXTINF:-1 tvg-id="KanalS.tr",Kanal S (720p)
@@ -203,25 +201,25 @@ https://cdn-kanals.yayin.com.tr/kanals/kanals/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalUrfa.tr",Kanal Urfa (576p) [Not 24/7]
 https://broadcasttr.com:446/kanalurfa/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalV.tr",Kanal V (720p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalZ.tr",Kanal Z (720p) [Geo-blocked]
-https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8
 #EXTINF:-1 tvg-id="KardelenTV.tr",Kardelen TV (1080p)
 https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="KayTV.tr",Kay TV (720p) [Geo-blocked]
-https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8
 #EXTINF:-1 tvg-id="KentTurk.tr",Kent Türk (720p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_38kenttv/38kenttv/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_38kenttv/38kenttv/playlist.m3u8
 #EXTINF:-1 tvg-id="KonTV.tr",Kon TV (720p)
 https://mn-nl.mncdn.com/blutv_kontv2/live.m3u8
 #EXTINF:-1 tvg-id="KRT.tr",KRT (720p)
 https://krt.blutv.com/blutv_krt_live/live.m3u8
 #EXTINF:-1 tvg-id="LifeTV.tr",Life TV (720p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 #EXTINF:-1 tvg-id="LineTV.tr",Line TV (404p) [Not 24/7]
-https://edge1.socialsmart.tv/linetv/bant1/chunks.m3u8
+https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="MaviKaradenizTV.tr",MaviKaradeniz (720p)
-https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
 #EXTINF:-1 tvg-id="MedMuzik.tr",Med Müzik (720p)
 http://137.74.205.201/medmuzik/MedStream/playlist.m3u8
 #EXTINF:-1 tvg-id="MilyonTV.tr",Milyon TV (720p)
@@ -245,7 +243,7 @@ https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8
 #EXTINF:-1 tvg-id="Number1TV.tr",Number 1 TV (720p)
 https://mn-nl.mncdn.com/blutv_nr12/live.m3u8
 #EXTINF:-1 tvg-id="OlayTurkTV.tr",Olay Türk TV (720p) [Geo-blocked]
-https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
 #EXTINF:-1 tvg-id="On4TV.tr",On4 TV (1080p)
 https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="On6.tr",On 6 (720p)
@@ -303,7 +301,7 @@ https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:-1 tvg-id="TekRumeliTV.tr",Tek Rumeli TV (576p)
 https://edge1.socialsmart.tv/tekrumelitv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="TempoTV.tr",Tempo TV
-https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
 #EXTINF:-1 tvg-id="TGRTBelgesel.tr",TGRT Belgesel TV (576p) [Not 24/7]
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TGRTHaber.tr",TGRT Haber (360p) [Not 24/7]
@@ -311,27 +309,11 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe45
 #EXTINF:-1 tvg-id="Tivi6.tr",Tivi 6 (720p)
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1 tvg-id="TonTV.tr",Ton TV (720p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_tontv/tontv/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 #EXTINF:-1 tvg-id="ToprakTV.tr",Toprak TV (720p) [Not 24/7]
 https://59cba4d34b678.streamlock.net/canlitv/topraktv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr",TRT 1 (1080p)
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="TRTCocuk.tr",TRT Çocuk (720p)
-https://tv-trtcocuk.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTEBAIlkokul.tr",TRT EBA Ilkokul (720p)
-https://tv-e-okul00.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTEBALise.tr",TRT EBA Lise (720p)
-https://tv-e-okul02.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTEBAOrtaokul.tr",TRT EBA Ortaokul (720p)
-https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTMuzik.tr",TRT Müzik (720p)
-https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTSpor.tr",TRT Spor (720p) [Geo-blocked]
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTSporYildiz.tr",TRT Spor Yildiz (720p) [Geo-blocked]
-https://tv-trtspor2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTWorld.tr",TRT World (1080p) [Not 24/7]
-https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
 #EXTINF:-1 tvg-id="TurkHaber.tr",TürkHaber (720p)
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="TV1.tr",TV 1 (720p)
@@ -363,7 +345,7 @@ https://uskudarunv.mediatriple.net/uskudarunv/uskudar1/playlist.m3u8
 #EXTINF:-1 tvg-id="UUTV2.tr",ÜÜ TV Üsküdar Üniversitesi TV (1080p)
 https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
 #EXTINF:-1 tvg-id="Vizyon58TV.tr",Vizyon 58 TV (720p) [Geo-blocked]
-https://waw2.artiyerelmedya.net/vizyon58/bant1/playlist.m3u8
+https://live.artidijitalmedya.com/artidijital_vizyon58/vizyon58/playlist.m3u8
 #EXTINF:-1 tvg-id="VTV.tr",VTV (720p) [Not 24/7]
 #EXTINF:-1 tvg-id="KudusTV.tr",Kudüs TV (480p)
 https://yayin30.haber100.com/live/kudustv/chunklist_w875630267.m3u8
@@ -371,7 +353,6 @@ https://yayin30.haber100.com/live/kudustv/chunklist_w875630267.m3u8
 https://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
 #EXTINF:-1 tvg-id="LalegulTV.tr",Lalegül TV (720p) [Not 24/7]
 http://lalegultv.netmedya.net/hls/lalegultv.m3u8
-https://waw2.artiyerelmedya.net/kanalv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-id="MalatyaVuslatTV.tr",Malatya Vuslat TV (720p)
 https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
 #EXTINF:-1 tvg-id="ErzurumWebTV.tr",Erzurum Web TV (720p)
@@ -383,4 +364,20 @@ https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m
 #EXTINF:-1 tvg-id="",TV A
 https://live.artidijitalmedya.com/artidijital_tva/tva/playlist.m3u8
 #EXTINF:-1 tvg-id="Bir.tr",Bir TV
-https://live.artidijitalmedya.com/artidijital_birtv/birtv/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
+#EXTINF:-1 tvg-id="TRTCocuk.tr",TRT Çocuk (720p)
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTEBAIlkokul.tr",TRT EBA Ilkokul (720p)
+https://tv-e-okul00.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTEBALise.tr",TRT EBA Lise (720p)
+https://tv-e-okul02.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTEBAOrtaokul.tr",TRT EBA Ortaokul (720p)
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTMuzik.tr",TRT Müzik (720p)
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTSpor.tr",TRT Spor (720p) [Geo-blocked]
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTSporYildiz.tr",TRT Spor Yildiz (720p) [Geo-blocked]
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="DimTV.tr",DİM TV (720p)
+https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8

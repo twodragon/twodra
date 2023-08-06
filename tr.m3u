@@ -118,8 +118,6 @@ https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95
 https://yayin30.haber100.com/live/diyartv/playlist.m3u8
 #EXTINF:-1 tvg-id="DostTV.tr",Dost TV (576p)
 https://dost.stream.emsal.im/tv/live.m3u8
-#EXTINF:-1 tvg-id="DreamTurk.tr",Dream Türk (720p)
-https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="DRTDenizli.tr",DRT Denizli (720p)
 https://edge1.socialsmart.tv/drttv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="EdessaTV.tr",Edessa TV (720p)
@@ -216,8 +214,6 @@ https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_38kenttv/38kenttv/chunks.m3u8
 #EXTINF:-1 tvg-id="KonTV.tr",Kon TV (720p)
 https://mn-nl.mncdn.com/blutv_kontv2/live.m3u8
-#EXTINF:-1 tvg-id="KralPopTV.tr",KRAL Pop TV (720p)
-https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 #EXTINF:-1 tvg-id="KRT.tr",KRT (720p)
 https://krt.blutv.com/blutv_krt_live/live.m3u8
 #EXTINF:-1 tvg-id="LifeTV.tr",Life TV (720p) [Not 24/7]
@@ -280,6 +276,10 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerTV.tr",Power TV (1080p)
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KralPopTV.tr",KRAL Pop TV (720p)
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+#EXTINF:-1 tvg-id="DreamTurk.tr",Dream Türk (720p)
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="RehberTV.tr",Rehber TV (720p)
 https://yayin30.haber100.com/live/rehbertv/playlist.m3u8
 #EXTINF:-1 tvg-id="SariyerTV.tr",Sarıyer TV (360p)

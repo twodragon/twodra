@@ -33,6 +33,8 @@ https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 tvg-id="TLC.tr", TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+#EXTINF:-1 tvg-name="NAT GEO",NAT GEO
+https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/10.m3u8
 #EXTINF:-1 tvg-id="ID.tr", ID
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_4.m3u8
 #EXTINF:-1 tvg-id="lnww.tr", Local Now TV

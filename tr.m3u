@@ -36,7 +36,7 @@ https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 tvg-name="NAT GEO",NAT GEO
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/10.m3u8
 #EXTINF:-1 tvg-id="ID.tr", ID
-https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_4.m3u8
+https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
 #EXTINF:-1 tvg-id="lnww.tr", Local Now TV
 https://linear-213.frequency.stream/dist/localnow/213/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Teve2.tr",Teve2 (1080p)

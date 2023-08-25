@@ -41,6 +41,8 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/10.m3u8
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
 #EXTINF:117, NTN SİNEMA HD
 https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
+#EXTINF:1,TV 90 
+https://tv90-live.cdnnew.com/tv90/tv90.m3u8
 #EXTINF:2,CINE 9
 https://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
 #EXTINF:1,CINE 10

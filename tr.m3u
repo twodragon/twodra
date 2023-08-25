@@ -7,8 +7,8 @@ https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr",Show TV (720p)
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-#EXTINF:-1 tvg-id="BeyazTV.tr",Beyaz TV (720p)
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:-1,BEYAZ TV 
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 tvg-id="FoxTurkey.tr",Fox Türkiye (720p)
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:-1 tvg-id="TV8.tr",TV 8 (1080p)

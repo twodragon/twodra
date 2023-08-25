@@ -41,6 +41,8 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/10.m3u8
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
 #EXTINF:2,CINE 9
 https://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
+#EXTINF:1,CINE 10
+https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="lnww.tr", Local Now TV
 https://linear-213.frequency.stream/dist/localnow/213/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Teve2.tr",Teve2 (1080p)
